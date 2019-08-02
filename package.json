@@ -1,5 +1,5 @@
 {
-"name": "检查可读写可执行目录&suid提权文件",
+"name": "检查rwx目录&suid提权文件",
 "name_en": "checkrwx&suid",
 "main": "index.js",
 "icon": "eye",
