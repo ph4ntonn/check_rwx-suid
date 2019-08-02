@@ -1,4 +1,4 @@
-# check-_rwx-suid
+# check_rwx-suid
 
 中国蚁剑（Antsword）插件
 
