@@ -1,5 +1,7 @@
 # check-_rwx-suid
 
+中国蚁剑（Antsword）插件
+
 在目标服务器上查询可读可写可执行目录以及可用于suid提权的文件（仅限linux）
 
 ## 演示
