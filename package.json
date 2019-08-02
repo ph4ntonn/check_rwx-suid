@@ -1,6 +1,6 @@
 {
-"name": "检查rwx目录&suid提权文件",
-"name_en": "checkrwx&suid",
+"name": "搜索rwx目录&suid提权文件",
+"name_en": "search rwx&suid",
 "main": "index.js",
 "icon": "eye",
 "version": "0.1",
