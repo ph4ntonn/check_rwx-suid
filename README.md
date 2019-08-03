@@ -18,5 +18,7 @@
 
 ## TODO
   增加对windows服务器的支持
-
+  
+  增加对asp等脚本类型的支持（有空了就加！哈哈）
+ 
 感谢@caidaome在AntSword下提交的插件建议issue
