@@ -189,8 +189,8 @@ class UI {
 
         //清空grid
       case "clear":
-        this.grid.clearAll(true);
-        this.grid_1.clearAll(true);
+        this.grid.clearAll();
+        this.grid_1.clearAll();
         toastr.success(LANG["message"]["clear_success"], LANG_T['success']);
         break;
       }
