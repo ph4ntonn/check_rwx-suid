@@ -4,7 +4,7 @@
 
 在目标服务器上查询可读可写可执行目录以及可用于suid提权的文件（支持asp,aspx,php）
 
-asp以及aspx类型的shell以上传独立的detect.asp(x)文件来实现对应操作，上传成功后只需访问webshell目录下的detect.asp(x)，输入欲检测的范围并执行即可。
+asp以及aspx类型的shell以上传独立的detect.asp(x)文件来实现对应操作（点击"用户"按钮后会弹出确认框，确认后即可在服务器上生成此文件），生成成功后只需访问webshell目录下的detect.asp(x)，输入欲检测的范围并执行即可。
 
 ## 演示
 
