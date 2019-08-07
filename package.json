@@ -1,0 +1,17 @@
+{
+"name": "检查可读写可执行目录&suid提权文件",
+"name_en": "checkrwx&suid",
+"main": "index.js",
+"icon": "eye",
+"version": "0.2",
+"description": "检查rwx目录&suid提权文件",
+"description_en": "check out the paths that the current user can read&write&execute and files can be used as suid-pwn for further move.",
+"author": {
+ "name": "ph4ntom",
+ "email": "ph4ntom11235@gmail.com"
+},
+"category": "信息获取",
+"category_en": "Infomation",
+"multiple": false,
+"scripts": ["php","asp","aspx"]
+}
